@@ -1,1 +1,2 @@
-running app initialization
+running app initialization chnages
+
